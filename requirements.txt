@@ -3,4 +3,3 @@ plotly
 cufflinks
 pandas
 numpy
-math
